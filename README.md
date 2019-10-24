@@ -8,6 +8,7 @@
 ## My Blog
 
 Think ML - https://medium.com/@suman.dns/building-the-ml-mindset-7c1543e7431b
+Linear Regression in ML way: https://medium.com/@suman.dns/linear-regression-in-ml-way-b165387483fd
 
 ## Course Overview
 
