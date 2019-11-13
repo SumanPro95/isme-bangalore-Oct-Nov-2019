@@ -9,6 +9,7 @@
 
 Think ML - https://medium.com/@suman.dns/building-the-ml-mindset-7c1543e7431b
 Linear Regression in ML way: https://medium.com/@suman.dns/linear-regression-in-ml-way-b165387483fd
+OpenMl Code with explanation: https://github.com/SumanPro95/OpenML-Project
 
 ## Course Overview
 
